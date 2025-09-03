@@ -1,0 +1,6 @@
+[submodule "open-webui"]
+	path = open-webui
+	url = https://github.com/open-webui/open-webui
+[submodule "markitdown"]
+	path = markitdown
+	url = https://github.com/microsoft/markitdown.git
